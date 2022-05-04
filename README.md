@@ -10,6 +10,7 @@ Se tradujeron las siguientes cosas:
 -El sprite de la pantalla de titulo.
 
 Lo que no se traduce:
+
 -Intro
 
 Lastimosamente no se incluyen tildes en los dialogos ya que la fuente del juego no admite esos simbolos.
