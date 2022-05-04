@@ -6,6 +6,7 @@ Esta es una traduccion fan de el videojuego Ritz de ninjamuffin99 que se hizo pa
 Se tradujeron las siguientes cosas:
 
 -Todos los dialogos.
+
 -El sprite de la pantalla de titulo.
 
 Lo que no se traduce:
